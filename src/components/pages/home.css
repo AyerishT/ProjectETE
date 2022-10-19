@@ -1,0 +1,55 @@
+.homeStyle
+{
+  background: transparent;
+    /* background: linear-gradient(to right, rgb(153, 246, 228), rgb(217, 249, 157)); */
+    margin-top: -24px;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 50%;
+    min-height: 50%;
+  }
+  .homeVideo
+  {
+    z-index: -10;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 50%;
+    padding: 20px;
+  }
+/* .cardStyle
+{
+    border: 1px solid gray;
+} */
+.cardStyle:hover{
+    border: 2px solid blue;
+    transition: all 1s linear;
+
+}
+.homeStyle-heading
+{
+  z-index: 1000;
+  color:hsl(0, 0%, 0%); 
+  
+  font-weight: 900;
+  font-size: 45px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.homeStyle-para
+{
+  font-size: 30px;
+  color: #fff;
+}
+.homeStyle-content
+{
+  font-size: 22px;
+  color:aquamarine;
+}

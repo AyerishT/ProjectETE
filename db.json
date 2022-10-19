@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Amritansh",
+      "username": "Nanhu",
+      "email": "amritansh45@gmail.com",
+      "phone": "7845963231",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Andrzej_Person_Kancelaria_Senatu.jpg/800px-Andrzej_Person_Kancelaria_Senatu.jpg",
+      "id": 1
+    },
+    {
+      "name": "Ayerish ",
+      "username": "Ayerish THAKUR",
+      "email": "ayerishthakur11@gmail.com",
+      "phone": "7787878788",
+      "image": "https://ak.picdn.net/offset/photos/5ab5350417fb156e4807c30f/medium/photo.jpg",
+      "id": 2
+    },
+    {
+      "name": "Sidharth",
+      "username": "manu",
+      "email": "manu@gmail.com",
+      "phone": "7676876786",
+      "image": "https://www.bollywoodhungama.com/wp-content/uploads/2022/01/Sidharth-Malhotra-begins-2022-with-Yodha-in-Mumbai-2.jpg",
+      "id": 3
+    }
+  ]
+}
